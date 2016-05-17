@@ -1,4 +1,4 @@
-# validator_json_api
+# Validator JSON API
 The standard's JSON API was based on http://jsonapi.org/ document
 
 ## 1. Installation
