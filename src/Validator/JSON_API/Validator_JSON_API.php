@@ -6,7 +6,9 @@
  * version: 1.0
  */
 
-Class Validator_JSON_API {
+namespace Validator\JSON_API;
+
+class Validator_JSON_API {
     
     // define variable use in class
     private $JSON_API;
